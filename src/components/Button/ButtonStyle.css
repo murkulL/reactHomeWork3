@@ -1,0 +1,19 @@
+.buttons{
+  display: flex;
+  gap: 20px;
+
+}
+.button{
+  width: 70px;
+  height: 30px;
+  display: block;
+}
+.button__red{
+  background-color: rgb(255, 48, 48);
+}
+.button__gray{
+  background-color: rgb(174, 174, 174);
+}
+.button__green{
+  background-color: rgb(101, 253, 81);
+}
